@@ -50,9 +50,9 @@ The installation procedure to run the project on your local machine is as follow
 ## Usage
 
 To use this code smaple, the following ought to be practiced;
-- Create an account with Flutterwave [here]()
+- Create an account with Flutterwave [here](https://flutterwave.com/us/)
 - Generate API Keys
-- Copy API Keys from Flutterwave account, add them to every payment request on `CURLOPT_HTTPHEADER` array for all curl requests to the payment gateway
+- Copy API Keys from Flutterwave account, add them to the `CURLOPT_HTTPHEADER` array, for every payment request, for all curl requests to the payment gateway
 - configure payment success return URL in your website or app
 - configure payment failed return URL in your website or app
 
@@ -64,6 +64,6 @@ For additional assistance using this library, contact the developer experience (
 
 ## License
 
-By contributing to the Green-Town-UX-UI-design, you agree that your contributions will be licensed under its MIT license.
+By contributing to the PHP-flutterwave-payment-gateway-sample-code, you agree that your contributions will be licensed under its MIT license.
 
 Copyright (c) Omae Software.
